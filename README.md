@@ -1,6 +1,6 @@
 # converter
 back : 
-nvm spring-boot:run
+mvn spring-boot:run
 front:
 npm run-script serve
 
